@@ -4,7 +4,7 @@
 
 > > > > > > ## 👩‍💻 About Me
 
-- 🎓 I'm currently pursuing my bachelor degree in computer science;
+- 🎓 I'm currently pursuing my bachelor's degree in computer science;
 - I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 > > > > > > ## Languages
