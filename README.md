@@ -7,11 +7,11 @@
 - 🎓 I'm currently pursuing my bachelor's degree in computer science;
 - I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
-> > > > > > ## Languages
+> > > > > > ## 📝 Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>
 
-> > > > > > ### Currently learning
+> > > > > > ### 📚 Currently learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
           
@@ -19,7 +19,7 @@
 
 <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50"/>
 
-> > > > > > ## Where you can find me
+> > > > > > ## 🤝 Where you can find me
 
 <a href = "mailto:marianectrodrigues@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="50" height="50" target="_blank"></a> <a href="https://www.linkedin.com/in/marianectrodrigues/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" height="50" target="_blank"></a>
 
