@@ -17,7 +17,7 @@
 
 > > > > > > ## 🛠 Tools
 
-<img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="50"/> <img src="https://img.icons8.com/fluency/96/000000/pycharm.png" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="50"/> <img src="https://img.icons8.com/color/48/000000/pycharm.png" width="50" height="50"/>
 
 > > > > > > ## 🤝 Where you can find me
 
