@@ -13,7 +13,7 @@
 
 > > > > > > ### 📚 Currently learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
 
 > > > > > > ## 🛠 Tools
 
