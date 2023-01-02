@@ -7,17 +7,9 @@
 - 🎓 I'm currently pursuing my bachelor's degree in computer science;
 - I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
-> > > > > > ## 📝 Languages
+> > > > > > ## 🛠 ToolKit
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="40"/>
-
-> > > > > > ### 📚 Currently learning
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
-
-> > > > > > ## 🛠 Tools
-
-<img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" /> <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="50"/>
 
 > > > > > > ## 🤝 Where you can find me
 
