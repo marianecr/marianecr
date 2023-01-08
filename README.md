@@ -7,7 +7,7 @@
 - 🎓 I'm currently pursuing my bachelor's degree in computer science;
 - I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
-> > > > > > ## Languages
+> > > > > > ## 📝 Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="40"/>
 
