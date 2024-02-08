@@ -13,7 +13,7 @@
 > # About Me 👩‍💻
 
 - ### My name is Mariane. Welcome to my github profile.
-- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Full Stack Software Development;
+- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Data Science;
 - ### I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 </div>
@@ -26,9 +26,7 @@
 
   <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> 
   <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="48"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>
 </div>
 
 ##
