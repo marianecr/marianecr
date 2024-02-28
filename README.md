@@ -2,7 +2,10 @@
 
 # Hello there! 👋
 
+<div class="header-image" >
+
 ![header](.github/header.gif)
+<div/>
 
 </div>
 
@@ -12,7 +15,7 @@
 
 > # About Me 👩‍💻
 
-- ### My name is Mariane. Welcome to my github profile.
+- ### My name is Mariane Silva. Welcome to my github profile.
 - ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Data Science;
 - ### I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
@@ -24,9 +27,10 @@
 
 > # Toolkit 🛠️
 
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="50" height="50"/> 
-  <img src="https://img.icons8.com/windows/96/000000/github.png" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>        
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+  ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+          
 </div>
 
 ##
@@ -35,12 +39,10 @@
 
 > # Where you can find me 🤝
 
-  <a href = "mailto:marianectrodrigues@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="50" height="50" target="_blank">
-  </a> 
-  <a href="www.linkedin.com/in/marianecrtsilva" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="50" height="50" target="_blank">
-  </a>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianecrtsilva/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianecr)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:marianectrodrigues@gmail.com)
+
 </div>
 
 ##
