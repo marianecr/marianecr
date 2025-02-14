@@ -17,7 +17,7 @@
   </div>
 
 - ### My name is Mariane. Welcome to my github profile.
-- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and post-degree in Data Science;
+- ### 🎓 I'm currently pursuing my bachelor's degree in Computer Science and Mathematics and post-degree in Data Science;
 - ### I love to travel 🛫, play soccer ⚽ and videogame 🎮.
 
 </div>
