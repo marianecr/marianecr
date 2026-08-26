@@ -35,7 +35,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="45"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="45"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="45"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="60" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="60" height="45" />
           
                
   </div>
@@ -54,11 +54,11 @@
 
 <div class="contacts" align="center">
 
-> # Where you can find me 🤝
+> ### Where you can find me 🤝
 
   <div class="contacts-icons">
     <a href = "mailto:marianectrodrigues@gmail.com">
-      <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="50" height="50" target="_blank">
+      <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="45" height="45" target="_blank">
     </a> 
           
   </div>
